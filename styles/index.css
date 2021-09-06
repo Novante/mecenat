@@ -1,5 +1,5 @@
 h1 {
-    color: #445a67;
+    color: #2e3332;
     font-size: 50px;
     font-weight: 500px;
     font-style: serif;
@@ -10,9 +10,21 @@ h1 {
 /*this is a single line comment*/
 
 /*This comment takes up multiple rows*/
-#second-paragraph {
-    color: #445a67;
+
+h3 {
+    color: #2E3332;
+    font-style: serif;
 }
+
+h4 {
+    color: #2E3332;
+    font-style: serif;
+}
+
+/*#second-paragraph {
+    color: #445a67;
+    */
+
 p { 
     color: #445a67;
     font-size: 17px;
