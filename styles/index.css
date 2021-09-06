@@ -1,25 +1,43 @@
 h1 {
-    color: rgb(139, 216, 139);
-    font-size: 40px;
-    font-weight: 300;
-    font-style: italic;
+    color: #445a67;
+    font-size: 50px;
+    font-weight: 500px;
+    font-style: serif;
     text-align: center;
-    background-color: slateblue;
+    background-color:#F7e5b7;
 }
 
 /*this is a single line comment*/
 
 /*This comment takes up multiple rows*/
 #second-paragraph {
-    color: purple;
+    color: #445a67;
 }
 p { 
-    color: orange;
+    color: #445a67;
+    font-size: 17px;
+    font-style: serif;
+
 }
 
-.dog-info, .last-paragraph {
-    color:seagreen;
+
+img {
+    height: 200px;
+    width: auto;
+    margin: 50px 250px 80px 250px;
+    border-width: 10px;
+    border-style: inset;
+    border-color: #96B3C2;
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px #2e3332;
+
 }
 
+footer {
+    color:#57838D;
+    font-size: 20px;
+    font-weight: 200px;
+    font-style: serif;
+    text-align: center;
 
-
+}
