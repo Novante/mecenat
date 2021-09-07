@@ -1,0 +1,75 @@
+h1 {
+    color: #2e3332;
+    font-size: 50px;
+    font-weight: 500px;
+    font-style: serif;
+    text-align: center;
+    background-color:rgba(117, 190, 218, 0.3);
+
+}
+
+/*this is a single line comment*/
+
+/*This comment takes up multiple rows*/
+
+h3 {
+    color: #2E3332;
+    font-style: serif;
+}
+
+h4 {
+    color: #2E3332;
+    font-style: serif;
+}
+
+/*#second-paragraph {
+    color: #445a67;
+    */
+
+p { 
+    color: #445a67;
+    font-size: 17px;
+    font-style: serif;
+
+}
+
+.last-paragraph {
+    color: #445a67;
+    font-size: 17px;
+    background-color: #d7e2ea;
+    height: 130px;
+    width: 300px;
+    padding: 5px;
+    margin: 30px;
+    border: 10px inset #96B3C2;
+    box-shadow: 10px 10px 20px #2e3332;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+img {
+    height: 200px;
+    width: auto;
+    margin: 10px 30px 50px 35px;
+    border-width: 10px;
+    border-style: inset;
+    border-color: #96B3C2;
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px #2e3332;
+
+}
+
+footer {
+    color:#ffdad1;
+    font-size: 40px;
+    font-weight: 200px;
+    font-style: serif;
+    text-align: center;
+
+}
+
+body {
+    background-color: #b4c9c7;
+
+}
