@@ -37,7 +37,7 @@ p {
     color: #445a67;
     font-size: 17px;
     background-color: #d7e2ea;
-    height: 130px;
+    height: 140px;
     width: 300px;
     padding: 5px;
     margin: 30px;
@@ -46,6 +46,26 @@ p {
     border-radius: 5px;
     text-align: center;
 
+}
+
+.button {
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    font-size: 14;
+    font-weight: bold;
+    line-height: 7;
+    background-color: rgb(3, 89 ,98);
+    color: white;
+    opacity: 0.6;
+    padding: 5px;
+    margin: 10px 120px 10px;
+    
+}
+
+.button:hover {
+    opacity: 1;
+    
 }
 
 img {
@@ -60,12 +80,17 @@ img {
 
 }
 
+
+
+
+
 footer {
     color:#ffdad1;
     font-size: 40px;
     font-weight: 200px;
     font-style: serif;
     text-align: center;
+    margin: 100px;
 
 }
 
