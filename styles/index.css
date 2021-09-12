@@ -5,7 +5,13 @@ h1 {
     font-style: serif;
     text-align: center;
     background-color:rgba(117, 190, 218, 0.3);
+    font-family: 'Quicksand', sans-serif;
 
+}
+
+.nav {
+    font-family: 'Abel', sans-serif;
+    
 }
 
 /*this is a single line comment*/
@@ -14,12 +20,15 @@ h1 {
 
 h3 {
     color: #2E3332;
-    font-style: serif;
+    /*font-style: serif;*/
+    font-family: 'Quicksand', sans-serif;
 }
 
 h4 {
     color: #2E3332;
-    font-style: serif;
+    /*font-style: serif;*/
+    font-family: 'Quicksand', sans-serif;
+   
 }
 
 /*#second-paragraph {
@@ -29,7 +38,7 @@ h4 {
 p { 
     color: #445a67;
     font-size: 17px;
-    font-style: serif;
+    font-family: 'Abel', sans-serif;
 
 }
 
@@ -45,6 +54,7 @@ p {
     box-shadow: 10px 10px 20px #2e3332;
     border-radius: 5px;
     text-align: center;
+    font-family: 'Abel', sans-serif;
 
 }
 
@@ -88,6 +98,7 @@ footer {
     font-style: serif;
     text-align: center;
     margin: 100px;
+    font-family: 'Quicksand', sans-serif;
 
 }
 
