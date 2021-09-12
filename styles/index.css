@@ -9,9 +9,13 @@ h1 {
 
 }
 
+.fa-lightbulb {
+    color:#FFEC59;
+}
+
 .nav {
     font-family: 'Abel', sans-serif;
-    
+    color:#cff800;
 }
 
 /*this is a single line comment*/
@@ -20,13 +24,11 @@ h1 {
 
 h3 {
     color: #2E3332;
-    /*font-style: serif;*/
     font-family: 'Quicksand', sans-serif;
 }
 
 h4 {
     color: #2E3332;
-    /*font-style: serif;*/
     font-family: 'Quicksand', sans-serif;
    
 }
